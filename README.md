@@ -1,5 +1,5 @@
 # Voltage_Amplifier
-Design a voltage amplifier with the following specifications using the 45nm PDK.
+Design of voltage amplifier with the following specifications using the 45nm PDK.
 
  • It is able to amplify a signal between 2GHz and 2.1GHz by ~12.3dB while driving a 100Ω
  load.
